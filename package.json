@@ -5,19 +5,6 @@
 	"categories": [
 		"RequireJS plugins"
 	],
-	"main": [
-		"src/async.js",
-		"src/depend.js",
-		"src/font.js",
-		"src/goog.js",
-		"src/image.js",
-		"src/json.js",
-		"src/mdown.js",
-		"src/noext.js",
-		"src/propertyParser.js",
-		"lib/Markdown.Converter.js",
-		"lib/text.js"
-	],
 	"github": "https://github.com/rammstein4o/requirejs-plugins",
 	"bugs": {
 		"web": "https://github.com/rammstein4o/requirejs-plugins/issues"
